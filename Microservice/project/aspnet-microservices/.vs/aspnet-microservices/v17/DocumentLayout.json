@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a.eslami\\Downloads\\14\\82_Microservice_Ordookhani\\project\\aspnet-microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4CF636-BD9B-4CC1-8940-13CB1662814E}|docker-compose.dcproj|c:\\users\\a.eslami\\downloads\\14\\82_microservice_ordookhani\\project\\aspnet-microservices\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7B4CF636-BD9B-4CC1-8940-13CB1662814E}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F101876D-1478-4F29-B90F-0EBAEE89AECC}|ApiGateways\\Shopping.Aggregator\\Shopping.Aggregator.csproj|c:\\users\\a.eslami\\downloads\\14\\82_microservice_ordookhani\\project\\aspnet-microservices\\apigateways\\shopping.aggregator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F101876D-1478-4F29-B90F-0EBAEE89AECC}|ApiGateways\\Shopping.Aggregator\\Shopping.Aggregator.csproj|solutionrelative:apigateways\\shopping.aggregator\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\a.eslami\\Downloads\\14\\82_Microservice_Ordookhani\\project\\aspnet-microservices\\ApiGateways\\Shopping.Aggregator\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateways\\Shopping.Aggregator\\appsettings.json",
+              "ToolTip": "C:\\Users\\a.eslami\\Downloads\\14\\82_Microservice_Ordookhani\\project\\aspnet-microservices\\ApiGateways\\Shopping.Aggregator\\appsettings.json",
+              "RelativeToolTip": "ApiGateways\\Shopping.Aggregator\\appsettings.json",
+              "ViewState": "AQIAAAAAAACAmZmZmZkOwAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T10:19:28.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\a.eslami\\Downloads\\14\\82_Microservice_Ordookhani\\project\\aspnet-microservices\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\a.eslami\\Downloads\\14\\82_Microservice_Ordookhani\\project\\aspnet-microservices\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAIIAAACAZmZmZqYowJAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-27T10:19:28.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

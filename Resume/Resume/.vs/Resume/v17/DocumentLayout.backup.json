@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\a.eslami\\project\\amade\\48_Resume_Akhundi\\Resume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18DE15CC-D3D4-47EB-9978-FAE2A7B86B9C}|Resume.Infra.Data\\Resume.Infra.Data.csproj|f:\\a.eslami\\project\\amade\\48_resume_akhundi\\resume\\resume.infra.data\\migrations\\20250726114158_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DE15CC-D3D4-47EB-9978-FAE2A7B86B9C}|Resume.Infra.Data\\Resume.Infra.Data.csproj|solutionrelative:resume.infra.data\\migrations\\20250726114158_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250726114158_INIT.cs",
+              "DocumentMoniker": "F:\\a.eslami\\project\\amade\\48_Resume_Akhundi\\Resume\\Resume.Infra.Data\\Migrations\\20250726114158_INIT.cs",
+              "RelativeDocumentMoniker": "Resume.Infra.Data\\Migrations\\20250726114158_INIT.cs",
+              "ToolTip": "F:\\a.eslami\\project\\amade\\48_Resume_Akhundi\\Resume\\Resume.Infra.Data\\Migrations\\20250726114158_INIT.cs",
+              "RelativeToolTip": "Resume.Infra.Data\\Migrations\\20250726114158_INIT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T11:41:58.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
